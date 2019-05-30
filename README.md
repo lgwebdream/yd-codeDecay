@@ -4,7 +4,7 @@
 
 > * 常用JavaScript代码残局部分
 > * 常用CSS代码残局部分
-> * 常用JavaScript代码残局部分
+> * 常用Shell代码残局部分
 
 ![cmd-markdown-logo](https://www.yidengxuetang.com/static/common/static/images/logo_01c8731.png)
 
